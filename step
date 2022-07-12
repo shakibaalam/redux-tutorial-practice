@@ -1,0 +1,17 @@
+// 1.npm init -y
+// 2.index.js
+// 3.npm install redux
+
+// for fetch 
+
+//1.async actions api calling
+//2. api url - https://jsonplaceholder.typicode.com/todos
+//3.middleware - redux-thunk
+//4. axios api
+
+//state
+//action
+//reducer
+//store
+//dispatch
+
